@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "c38a7dbcc953c83c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf9c88547ccc33e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d490c3b0052e6bfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a46d7e36e35971ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f58a1af3a05b79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "579bcf93e91f45aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "beca935da20fd984",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3615be2202e30e8a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5377293ae98ddf11",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9c3b0b47056e7cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc8c841b82303100",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hello.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38d76256f259ced2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hello.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5275f0dede6d4951",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bd06b5acc7b54793",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hello.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d490c3b0052e6bfd",
+  "lastOpenFiles": [
+    "Gemfile",
+    "about.markdown",
+    "index.markdown",
+    "_posts/2023-04-09-welcome-to-jekyll.markdown",
+    "_posts",
+    "_config.yml",
+    "404.html",
+    "Hello.md"
+  ]
+}
